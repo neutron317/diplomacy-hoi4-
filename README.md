@@ -1,0 +1,2 @@
+# diplomacy-hoi4-
+diplomacyとhoi4と主計将校のパクリゲーのルールやらを纏めるための場所
